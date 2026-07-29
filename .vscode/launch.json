@@ -1,0 +1,20 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+        "type": "java",
+        "name": "ArrayListTest3",
+        "request": "launch",
+        "mainClass": "ArrayListTest3",
+        "projectName": ""
+    },
+    {
+        "type": "java",
+        "name": "Launch ArrayListTest2",
+        "request": "launch",
+        "mainClass": "ArrayListTest2",
+        "cwd": "${workspaceFolder}/Data Strucutres & Algorithm/DSA",
+        "console": "integratedTerminal"
+    }
+]
+}
