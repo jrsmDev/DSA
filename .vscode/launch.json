@@ -3,6 +3,83 @@
   "configurations": [
     {
         "type": "java",
+        "name": "PreOrder",
+        "request": "launch",
+        "mainClass": "PreOrder",
+        "projectName": "DSA-main_3570b062"
+    },
+    {
+        "type": "java",
+        "name": "PreOrder$BST_PreorderTrav",
+        "request": "launch",
+        "mainClass": "PreOrder$BST_PreorderTrav",
+        "projectName": "DSA-main_3570b062"
+    },
+    {
+        "type": "java",
+        "name": "HashTable2",
+        "request": "launch",
+        "mainClass": "HashTable2",
+        "projectName": "DSA-main_3570b062"
+    },
+    {
+        "type": "java",
+        "name": "HashTable",
+        "request": "launch",
+        "mainClass": "HashTable",
+        "projectName": "DSA-main_3570b062"
+    },
+    {
+        "type": "java",
+        "name": "TreeDataStructure6",
+        "request": "launch",
+        "mainClass": "TreeDataStructure6",
+        "projectName": "DSA-main_3570b062"
+    },
+    {
+        "type": "java",
+        "name": "BinarySearch",
+        "request": "launch",
+        "mainClass": "BinarySearch",
+        "projectName": "DSA-main_3570b062"
+    },
+    {
+        "type": "java",
+        "name": "TreeDataStructure",
+        "request": "launch",
+        "mainClass": "TreeDataStructure",
+        "projectName": "DSA-main_3570b062"
+    },
+    {
+        "type": "java",
+        "name": "BinaryExpression",
+        "request": "launch",
+        "mainClass": "BinaryExpression",
+        "projectName": "DSA-main_3570b062"
+    },
+    {
+        "type": "java",
+        "name": "BST_InorderTrav",
+        "request": "launch",
+        "mainClass": "BST_InorderTrav",
+        "projectName": "DSA-main_3570b062"
+    },
+    {
+        "type": "java",
+        "name": "InorderTraversal",
+        "request": "launch",
+        "mainClass": "InorderTraversal",
+        "projectName": "DSA-main_3570b062"
+    },
+    {
+        "type": "java",
+        "name": "QueueManagementSystem",
+        "request": "launch",
+        "mainClass": "QueueManagementSystem",
+        "projectName": "DSA-main_3570b062"
+    },
+    {
+        "type": "java",
         "name": "ArrayListTest3",
         "request": "launch",
         "mainClass": "ArrayListTest3",
