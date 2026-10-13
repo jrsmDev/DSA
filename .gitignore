@@ -1,0 +1,8 @@
+# OS junk only
+.DS_Store
+Thumbs.db
+
+# Private repo: intentionally TRACK .env and .vscode (do not ignore)
+!.env
+!.env.*
+!.vscode/
